@@ -9,7 +9,7 @@ export default function Index() {
       <main>
         <article>
           <section className="bg-sea-green">
-            <div className="container">
+            <div className="container py-4">
               <div className="px-4">
                 <h1 className="uppercase text-[13ch] z-[1] relative">
                   chefs in the kitchen
